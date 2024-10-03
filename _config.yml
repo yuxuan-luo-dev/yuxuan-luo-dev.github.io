@@ -4,6 +4,12 @@ url: "https://yuxuan-luo-dev.github.io" # The base URL of your site
 
 theme: Midnight 
 
+header_pages:
+  - about.md
+  - cv.md
+  - blog.md
+  - projects.md
+
 social_links:
   github: https://github.com/tbd
   linkedin: https://linkedin.com/tbd
