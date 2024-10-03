@@ -2,7 +2,7 @@ title: Yuxuan Luo' homepage
 baseurl: "" # If the site is hosted at a subpath (e.g., /blog), set baseurl: "/blog"
 url: "https://yuxuan-luo-dev.github.io" # The base URL of your site
 
-theme: jekyll-theme-slate
+theme: minima
 
 header_pages:
   - about.md
