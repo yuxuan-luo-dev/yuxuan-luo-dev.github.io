@@ -1,3 +1,8 @@
+---
+layout: default
+title: CV
+---
+
 # Welcome to My Blog
 
 Hello! I'm **Yuxuan Luo**, and this is my personal blog where I share my thoughts, tutorials, and project updates.
