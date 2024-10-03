@@ -3,7 +3,6 @@ baseurl: "" # If the site is hosted at a subpath (e.g., /blog), set baseurl: "/b
 url: "https://yuxuan-luo-dev.github.io" # The base URL of your site
 
 remote_theme: mmistakes/minimal-mistakes@4.24.0
-skin: dark # Enables dark mode
 plugins:
   - jekyll-remote-theme
 
