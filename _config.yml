@@ -1,6 +1,4 @@
 title: Yuxuan Luo' homepage
-description: >- 
-  A blog about my thoughts, projects, and tutorials
 baseurl: "" # If the site is hosted at a subpath (e.g., /blog), set baseurl: "/blog"
 url: "https://yuxuan-luo-dev.github.io" # The base URL of your site
 
