@@ -2,11 +2,7 @@ title: Yuxuan Luo' homepage
 baseurl: "" # If the site is hosted at a subpath (e.g., /blog), set baseurl: "/blog"
 url: "https://yuxuan-luo-dev.github.io" # The base URL of your site
 
-remote_theme: "mmistakes/minimal-mistakes@4.24.0" # Use the Minimal Mistakes theme
-plugins:
-  - jekyll-remote-theme # Required plugin for remote themes
-  - jekyll-seo-tag # Optional for better SEO
-  - jekyll-sitemap # Optional for generating a sitemap
+theme: slate
 
 header_pages:
   - about.md
