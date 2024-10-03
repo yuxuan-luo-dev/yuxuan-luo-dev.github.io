@@ -2,7 +2,8 @@ title: Yuxuan Luo' homepage
 baseurl: "" # If the site is hosted at a subpath (e.g., /blog), set baseurl: "/blog"
 url: "https://yuxuan-luo-dev.github.io" # The base URL of your site
 
-remote_theme: pages-themes/midnight@v0.2.0 # Use the Midnight theme
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+skin: dark # Enables dark mode
 plugins:
   - jekyll-remote-theme
 
