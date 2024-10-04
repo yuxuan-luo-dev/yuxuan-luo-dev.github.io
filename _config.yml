@@ -1,4 +1,11 @@
 title: Yuxuan Luo' homepage
+author:
+  name: GitHub User
+  email: luna.luo.ngo@outlook.com
+
+description: >
+  "Welcome to Yuxuan Luo's personal blog, featuring projects, CV, and insights."
+
 baseurl: "" # If the site is hosted at a subpath (e.g., /blog), set baseurl: "/blog"
 url: "https://yuxuan-luo-dev.github.io" # The base URL of your site
 
