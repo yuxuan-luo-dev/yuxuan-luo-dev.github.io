@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Using SQL Expert from ChatGPT to Learn SQL Projects"
+#title: ""
 date: 2024-10-03
 ---
+## Using SQL Expert from ChatGPT to Learn SQL Projects
 
 In this post, I’ll be sharing how we can use **SQL Expert from ChatGPT** to run SQL projects efficiently. If we’re working on data analysis or database management tasks, SQL Expert can be a great resource to help we write, test, and run SQL queries seamlessly.
 
