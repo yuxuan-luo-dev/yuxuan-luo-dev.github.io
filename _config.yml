@@ -10,6 +10,9 @@ header_pages:
   - blog.md
   - projects.md
 
+minima:
+  skin: dark
+
 social_links:
   github: https://github.com/tbd
   linkedin: https://linkedin.com/tbd
