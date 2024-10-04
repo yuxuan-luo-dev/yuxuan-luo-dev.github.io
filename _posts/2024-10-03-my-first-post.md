@@ -9,7 +9,7 @@ In this post, I’ll be sharing how we can use **SQL Expert from ChatGPT** to ru
 
 ## Why Use SQL Expert from ChatGPT?
 
-**SQL Expert** is a tool that helps we formulate SQL queries and troubleshoot issues we encounter when working with databases. It’s powered by ChatGPT, and with it, we can:
+**SQL Expert** is a tool that helps us formulate SQL queries and troubleshoot issues we encounter when working with databases. It’s powered by ChatGPT, and with it, we can:
 
 - Generate **SQL queries** based on natural language prompts.
 - **Debug SQL errors** quickly and understand what’s going wrong with our query.
@@ -47,7 +47,7 @@ WHERE department = 'Engineering'
 ORDER BY salary DESC
 LIMIT 5;
 
-SQL Expert will not only generate the query for we but also explain each part of the query in case we’re unsure about the syntax.
+SQL Expert will not only generate the query for us but also explain each part of the query in case we’re unsure about the syntax.
 
 ### Step 3: Troubleshooting Queries with SQL Expert
 If we query runs into an error, like a syntax issue or incorrect results, SQL Expert can guide we through debugging. For example, we might ask:
