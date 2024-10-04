@@ -1,9 +1,8 @@
 ---
 layout: post
-#title: ""
+##title: "Using SQL Expert from ChatGPT to Learn SQL Projects"
 date: 2024-10-03
 ---
-## Using SQL Expert from ChatGPT to Learn SQL Projects
 
 In this post, I’ll be sharing how we can use **SQL Expert from ChatGPT** to run SQL projects efficiently. If we’re working on data analysis or database management tasks, SQL Expert can be a great resource to help we write, test, and run SQL queries seamlessly.
 
@@ -46,7 +45,7 @@ FROM employees
 WHERE department = 'Engineering'
 ORDER BY salary DESC
 LIMIT 5;
-
+```
 SQL Expert will not only generate the query for us but also explain each part of the query in case we’re unsure about the syntax.
 
 ### Step 3: Troubleshooting Queries with SQL Expert
@@ -56,7 +55,7 @@ If we query runs into an error, like a syntax issue or incorrect results, SQL Ex
 
 ChatGPT will explain the potential issues, such as an error in the LIMIT clause or a problem with how the data is ordered, and suggest a solution.
 
-###Step 4: Aggregating Data
+### Step 4: Aggregating Data
 For the second task—calculating the average salary per department—SQL Expert can help us write a more advanced query involving SQL aggregation:
 
 ```sql
@@ -64,6 +63,7 @@ Copy code
 SELECT department, AVG(salary) AS average_salary
 FROM employees
 GROUP BY department;
+```
 Once again, SQL Expert will not only provide the correct query but also offer insights into how the AVG function and GROUP BY clause work.
 
 Conclusion
