@@ -1,6 +1,6 @@
 ---
 layout: post
-##title: "Using SQL Expert from ChatGPT to Learn SQL Projects"
+title: "Using SQL Expert from ChatGPT to Learn SQL Projects"
 date: 2024-10-03
 ---
 
@@ -44,7 +44,7 @@ SELECT first_name, last_name, salary
 FROM employees
 WHERE department = 'Engineering'
 ORDER BY salary DESC
-LIMIT 5;
+LIMIT 5
 ```
 SQL Expert will not only generate the query for us but also explain each part of the query in case we’re unsure about the syntax.
 
@@ -62,7 +62,7 @@ For the second task—calculating the average salary per department—SQL Expert
 Copy code
 SELECT department, AVG(salary) AS average_salary
 FROM employees
-GROUP BY department;
+GROUP BY department
 ```
 Once again, SQL Expert will not only provide the correct query but also offer insights into how the AVG function and GROUP BY clause work.
 
