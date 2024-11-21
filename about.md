@@ -3,16 +3,19 @@ layout: default
 title: About
 ---
 
-# About Me
+# 👋 Hi, I'm Yuxan Luo!
 
-Hi, I'm **Yuxuan Luo**, a graudate student with a passion for public policy. I enjoy working on projects related to data analysis and sharing my knowledge through writing and tutorials.
+## About Me
+I am a **Graduate Student** pursuing a degree in **Public Policy** at **Georgetown University**. My academic journey is focused on **understanding and making policies via data analysis**, and I am passionate about solving real-world problems through **R, SQL, Tableau**. I am currently expanding my knowledge in **data visualization** and working on exciting projects that align with my academic and career goals.
 
-I started this blog to document my journey and projects. I hope to inspire others who are interested in doing data analysis to explore, learn, and build great things.
+- 🎓 Currently studying: **Master of Public Policy**
+- 🔭 Working on: **Health Effects of Dietary Risks**
+- 🌱 Learning: **PowerBI, PostgreSQL Tool**
+- 💬 Ask me about: **Tennis, Hiking, Ski, Art**
+- 📫 How to reach me: (mailto:luna.luo.ngo@outlook.com)
 
-## Education
-- **[Your Degree]**, [Your University], [Year]
-- **[Your Other Degree]**, [Your University], [Year]
+## Skills
+Here are some of the skills and technologies I am proficient in:
 
-## Experience
-- **[Job Title]**, [Company Name], [Year-Year]
-- **[Job Title]**, [Company Name], [Year-Year]
+- **Programming Languages**: R, SQL
+- **Tools & Frameworks**: Microsoft Office Tools, Git, RStudio, Tableau, PowerBI, pgAdmin4, Stata
