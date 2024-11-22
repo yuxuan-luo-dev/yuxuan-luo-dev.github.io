@@ -20,4 +20,4 @@ Displaying my work at the exhibition was an exhilarating experience. Here are so
 ## Gallery
 Here is a glimpse of the artwork from the exhibition:
 
-![painting01](../image/painting01.jpg)  
+![painting01](/painting01.jpg)  
