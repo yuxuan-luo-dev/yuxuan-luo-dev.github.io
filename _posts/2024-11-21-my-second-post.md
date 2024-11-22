@@ -1,3 +1,8 @@
+layout: post
+title: A Glimpse Into My Art: The Blue
+date: 2024-11-21
+author: Yuxuan Luo
+
 # A Glimpse Into My Art: The Blue
 
 ## Introduction
