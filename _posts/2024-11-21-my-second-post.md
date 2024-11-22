@@ -1,6 +1,7 @@
 # A Glimpse Into My Art: The Blue
 
 ## Introduction
+-
 Art has always been my way of expressing the interplay between nature and emotion. Last year, I took a six-month break from my studies and became a volunteer at our state gallery. This experience came full circle when I had the privilege of showcasing one of my paintings in an art exhibition held at the same gallery.
 ---
 
