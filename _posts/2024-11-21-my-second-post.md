@@ -20,4 +20,4 @@ Displaying my work at the exhibition was an exhilarating experience. Here are so
 ## Gallery
 Here is a glimpse of the artwork from the exhibition:
 
-![Golden Fish in Blue Waters](../image/painting01.jpeg)  
+![The Blue](../image/painting01.jpg)  
